@@ -38,4 +38,3 @@ _A simple web application for planning your day._
 ## Open 
 
 👉 https://d1ss1.github.io/to-do-list/
-👉 https://d1ss1.github.io/to-do-list/
