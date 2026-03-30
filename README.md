@@ -1,17 +1,41 @@
-# Cписок дел
+# 📝 Список дел ~ ru version
 
-* Описание
+_Простое веб-приложение для планирования дня._
 
-_**Этот проект полезен тому кто сам хочет составить свой день что бы он был эффективный и продуктивный!**_
+## Как использовать?
 
-* Как использовать?
+1. Enter the task in the field
+2. Click "Add"
+3. The task will appear in the list
 
-_**Нужно написать в поле дело которое хотите сделать и потом нажать кнопку: "Добавить" и вы добавите +1 дело к своему списку**_
+## Технологии
 
-* Технологии
+- HTML
+- CSS  
+- JavaScript
 
-*HTML,CSS,JS*
+## Открыть
 
-## Ссылка: 
+👉 https://d1ss1.github.io/to-do-list/
 
-https://d1ss1.github.io/to-do-list/
+
+# 📝 To-do list ~ eng version
+
+_A simple web application for planning your day._
+
+## How to use?
+
+1. Enter the task in the field
+2. Click "Add"
+3. The task will appear in the list
+
+## Technologies
+
+- HTML
+- CSS  
+- JavaScript
+
+## Open 
+
+👉 https://d1ss1.github.io/to-do-list/
+👉 https://d1ss1.github.io/to-do-list/
